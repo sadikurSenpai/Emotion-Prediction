@@ -1,4 +1,4 @@
-# 😊 Multimodal Emotion Detection App
+# Multimodal Emotion Detection
 
 A lightweight yet powerful emotion detection system that interprets human emotions from **text**, **image**, and **audio** inputs. This **multimodal app** uses two separate deep learning models — one for text-based sentiment, and one for facial image emotion detection. Audio inputs are transcribed into text and then passed through the text emotion classifier (no separate audio model).  
 ![Emotion App_text](https://github.com/user-attachments/assets/2849ed29-3a54-48b4-b6eb-b6583df8aa66)
