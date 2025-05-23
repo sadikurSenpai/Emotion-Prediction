@@ -42,10 +42,3 @@ A lightweight yet powerful emotion detection system that interprets human emotio
 - **Scikit-learn** – Dataset splitting and evaluation metrics (classification reports, accuracy)
 
 ---
-
-## 🔗 Access the Training Notebooks
-
-The trained model files are too large to be hosted on GitHub. You can view or access them via the following Kaggle notebooks:
-
-- 📝 [Text Model – Twitter Dataset](https://www.kaggle.com/code/romannihal/emotion-prediction-twitter-dataset)
-- 📷 [Image Model – FER Dataset](https://www.kaggle.com/code/romannihal/emotion-prediction-fer-dataset)  
